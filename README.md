@@ -26,5 +26,7 @@ This shows an exmaple of an opml file that I exported from my iPhone. It shows t
 </body>
 </opml>
 ```
+
+So there are x paramteres that need to be set; ``outline type``, ``text``, ``title``, ``xmlUrl`` and ``htmlUrl``
 ## How do I use it?
 Add the URL to the podcasts you want to subscribe to. Send the generated OPML file to yourself in an email and send to/open with Overcast.

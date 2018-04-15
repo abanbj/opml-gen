@@ -1,0 +1,7 @@
+git minutes http://feeds.gitminutes.com/gitminutes-podcast
+All Things git https://www.allthingsgit.com/rss.xml
+FLOSS Weekly http://feeds.twit.tv/floss.xml
+Security Now http://feeds.twit.tv/sn.xml
+Einstein – på sporet av den tøyde tid http://podkast.nrk.no/program/einstein__paa_sporet_av_den_toeyde_tid.rss
+Ekko http://podkast.nrk.no/program/ekko_-_et_aktuelt_samfunnsprogram.rss
+Abels tårn http://podkast.nrk.no/program/abels_taarn.rss

@@ -29,7 +29,7 @@ This shows an exmaple of an opml file that I exported from my iPhone. It shows t
 
 So there are 5 paramteres that need to be set for each podcast; ``outline type``, ``text``, ``title``, ``xmlUrl`` and ``htmlUrl``
 
-See also OPML on [Wikipedia](https://en.wikipedia.org/wiki/OPML).
+For more info about the OPML format, see [Wikipedia](https://en.wikipedia.org/wiki/OPML).
 
 ## How do I use it?
 Add the URL to the podcasts you want to subscribe to. Send the generated OPML file to yourself in an email and send to/open with Overcast.
